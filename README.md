@@ -9,7 +9,7 @@ I am a results-driven AI Engineer and Researcher focused on bridging the gap bet
 ### 🚀 About Me
 - 🧠 Currently focused on **Medical AI Agents** and **Neuroscience-driven ML**.
 - 🎓 B.Sc. in Computer Science and Engineering from **AIUB**.
-- 🔬 Former Research Manager at **Elite Lab Ai**, with publications in **IEEE RAAICON**.
+- 🔬 Former Research Manager at **Elite Lab Ai**, with publications in **IEEE RAAICON & QPAIN**.
 - 🛠️ Expert in building RAG-based systems and autonomous AI agents using **LangChain** and **CrewAI**.
 
 ---
