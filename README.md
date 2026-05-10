@@ -1,27 +1,49 @@
-# Hi there, I'm Wasee Ahsan 👋 
+# 👋 Salam, I'm Wasee Ahsan
 
-### AI Engineer | Machine Learning Researcher | Software Developer
+**Jr. AI Engineer | Machine Learning Researcher | Problem Solver**
 
-I am a results-driven AI Engineer and Researcher focused on bridging the gap between academic research and production-ready software. I specialize in building scalable AI agents, deep learning models, and full-stack system architectures.
-
----
-
-### 🚀 About Me
-- 🧠 Currently focused on **Medical AI Agents** and **Neuroscience-driven ML**.
-- 🎓 B.Sc. in Computer Science and Engineering from **AIUB**.
-- 🔬 Former Research Manager at **Elite Lab Ai**, with publications in **IEEE RAAICON & QPAIN**.
-- 🛠️ Expert in building RAG-based systems and autonomous AI agents using **LangChain** and **CrewAI**.
+[cite_start]I specialize in building production-grade AI systems, specifically focusing on **Generative AI (RAG)**, **Computer Vision**, and **AI Forensics**[cite: 5]. [cite_start]Currently, I’m leading AI projects at **Hoplon Infosec LLC**, where I architect systems that bridge the gap between research and real-world deployment[cite: 9, 10, 12].
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🚀 What I’m Working On
+* [cite_start]**AI Forensics:** Optimizing architectures like **EfficientNet** and **ResNet** for deepfake detection in resource-constrained environments[cite: 18].
+* [cite_start]**Agentic Workflows:** Building multi-agent medical assistants using **LangChain (ReAct)** and **Model Context Protocol (MCP)**[cite: 33, 35, 36].
+* [cite_start]**Proctoring Tech:** Developed an AI Proctoring Suite using **YOLOv11** and **MediaPipe** for real-time fraud detection[cite: 13].
+* [cite_start]**Scalable RAG:** Architecting enterprise-level chatbots using **FastAPI**, **vLLM**, and **ChromaDB**[cite: 21].
 
-| Category | Skills |
+---
+
+### 📊 Professional Metrics
+* [cite_start]**Efficiency:** Improved model benchmarking by **10%** while maintaining **97% accuracy**[cite: 6].
+* [cite_start]**Impact:** Reduced recruiter workload by **50%** through automated evaluation suggestions[cite: 15].
+* [cite_start]**Accuracy:** Achieved **95%+ diagnostic accuracy** in clinical workflow automation projects[cite: 35].
+
+---
+
+### 🛠️ My Tech Stack
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (AI/ML), C++ (DSA), SQL |
-| **AI & Machine Learning** | Deep Learning (CNN), NLP, LLMs, RAG, Roboflow, Scikit-learn |
-| **Frameworks** | TensorFlow, Keras, LangChain, CrewAI, n8n, FastAPI, ASP.NET Core |
-| **Data & Tools** | PostgreSQL, SQL Server, Docker, Git, Linux, Pandas, NumPy |
+| **AI/ML** | [cite_start]PyTorch, TensorFlow, Scikit-learn, YOLOv11, MediaPipe [cite: 7, 13] |
+| **Generative AI** | [cite_start]LangChain, RAG, vLLM, Mistral, Qwen, Gemma 2 [cite: 12, 14, 17, 21] |
+| **Backend/DevOps** | [cite_start]FastAPI, Docker, AWS (EC2, S3), Redis, ChromaDB [cite: 5, 16, 21] |
+| **Research** | [cite_start]Image Annotation (CVPR), Transfer Learning, Forensic Analysis [cite: 7, 18, 31] |
+
+---
+
+### 📝 Publications & Research
+* [cite_start]**Lead Author:** *ML Framework for Cognitive Function via tDCS* (IEEE RAAICON 2025)[cite: 30].
+* [cite_start]**Co-Author:** *Mosquito Larvae Classification using Transfer Learning* (IEEE QPAIN 2026)[cite: 31].
+
+---
+
+### 🤝 Connect with Me
+* [cite_start]🌍 [Check out FactsDetector.ai](https://factsdetector.ai/) — A real-time AI news verification platform.
+* 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+* [cite_start]📧 [Email Me](mailto:waseeahsan39@gmail.com) [cite: 2]
+
+---
+*“Building the future, one epoch at a time.”*
 
 ---
 
